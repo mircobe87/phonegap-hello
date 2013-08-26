@@ -2,4 +2,4 @@
 platforms/*
 marges/*
 plugins/*
-
+.cordova/*

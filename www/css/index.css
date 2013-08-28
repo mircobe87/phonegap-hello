@@ -54,9 +54,6 @@ body {
 	text-align: left;
 }
 .iconArea {
-	text-align: center;
-	position: fixed;
-   bottom:0px;
-	width: 100%;
-	height: 128px;
+	align: center;
+	margin-top: 64px;
 }
